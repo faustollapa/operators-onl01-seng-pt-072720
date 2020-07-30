@@ -2,9 +2,9 @@ def unsafe?(speed)
   if speed < 60 
     "true"
   if speed > 40
-    "true"
+    puts"true"
   else
-    "false"
+    puts"false"
   end   
 end
 
